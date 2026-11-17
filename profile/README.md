@@ -1,9 +1,9 @@
-## Hi there 👋
+## Hey there! 👋
 
-We're **Dectraced**, a group focused on fighting back against the hacker known as **Rectraced**.
+We're **Dectraced**, a group working together to stop the damage of a hacker known as **Rectraced**. 
 
-We document what we find, keep track of his activity, and work together to help stop the damage he causes.
+Our goal is simple: work together and stop the damage he causes.
 
-You can check out our website to learn more about us and what we do:
+Want to know more about us or what we're doing? Check out our website!
 
-🌐 **[dectraced.github.io](https://dectraced.github.io)**
+🌐 **https://dectraced.github.io**
